@@ -2,7 +2,7 @@ import { Button } from "@/components/ui/button";
 
 export default function Hero() {
   return (
-    <section className="py-20 bg-gradient-to-r from-primary to-primary-dark text-white">
+    <section className="py-20 bg-linear-to-r from-primary to-primary-dark text-white">
       <div className="container mx-auto text-center">
         <h1 className="text-4xl md:text-6xl font-bold mb-6">
           Streamline Your Workflow
